@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("----5----hotfix!");
         System.out.println("----6----hotfix!");
         System.out.println("----7----hotfix!");
+        System.out.println("----pull test!");
 
     }
 }
